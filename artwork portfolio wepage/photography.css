@@ -1,0 +1,108 @@
+#profile
+{
+	margin-top:2px;
+	margin-bottom: 2px;
+
+	width:7rem ;
+	height:7rem;
+
+
+}
+
+
+#Genre
+{
+	padding-left:5%; 
+	padding-right:5%;
+	margin-right: 5%;
+	
+}
+
+.Navigationbar
+{
+	color:white;
+	width: 100%;
+}
+#carouselExampleIndicators
+{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-right: auto;
+	margin-left: auto;
+
+    width: 50%;
+    height: 50%;
+
+}
+.carousel-control-prev
+{
+
+}
+.carousel-control-next
+{
+	color: red;
+}
+body
+{
+	background-color:  #b3ffb3;
+
+}
+#figures
+{
+	text-align: center;
+	padding-left:10%;
+	padding-right:10%;
+	padding-top:0;
+	
+
+}
+
+
+
+.About-me
+{
+	background-color: #ffe6e6;
+	text-align: center;
+	font-size: 1.5rem;
+	font-family:'Balsamiq Sans';
+	margin-bottom: 1rem;
+	margin-top: 3rem;
+	padding-top: :  2rem;
+	padding-bottom: 5%;
+	line-height:normal;
+
+}
+h2
+{
+	margin-top: 10%;
+	padding-top: 2rem;
+}
+
+.row
+{
+	padding-top:5%; 
+	padding-bottom:7%;
+}
+#sticky-footer {
+	display: block;
+  flex-shrink: none;
+ 
+}
+#footlink
+{
+	 color:white;
+	 padding-right: 5%;
+
+}
+
+h1
+{
+
+	text-align: center;
+	font-size: 5rem;
+	padding-top:5%; 
+	padding-bottom:5%;
+	 font-family: 'Showlove';
+}
